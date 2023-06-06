@@ -49,6 +49,7 @@ Install the required dependencies mentioned above.
 
 
 $ streamlit run Agriculture_Crop_Predictions.py
+
 Access the application in your web browser at the provided URL.
 
 Contributing
